@@ -1,7 +1,14 @@
 package global
 
-import "gorm.io/gorm"
+import (
+	"github.com/spf13/viper"
+	"study-gorm/config"
+
+	"gorm.io/gorm"
+)
 
 var (
-	GVA_DB *gorm.DB
+	GvaDb     *gorm.DB
+	GvaConfig config.Server
+	GvaVp     *viper.Viper
 )

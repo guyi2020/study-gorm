@@ -1,0 +1,9 @@
+mysql:
+  path: '127.0.0.1:3306'
+  config: 'charset=utf8mb4&parseTime=True&loc=Local'
+  db-name: 'study_gorm'
+  username: 'root'
+  password: 'tifenbao2014'
+  max-idle-conns: 10
+  max-open-conns: 100
+  log-mode: false
