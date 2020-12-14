@@ -1,0 +1,9 @@
+[GIN-VUE-ADMIN]2020/12/10 - 12:35:27.580	[34minfo[0m	D:/go_project/study-gorm/initialize/gorm.go:54	register table success
+[GIN-VUE-ADMIN]2020/12/10 - 14:18:54.522	[34minfo[0m	D:/go_project/study-gorm/initialize/gorm.go:54	register table success
+[GIN-VUE-ADMIN]2020/12/10 - 14:45:18.779	[34minfo[0m	D:/go_project/study-gorm/initialize/gorm.go:54	register table success
+[GIN-VUE-ADMIN]2020/12/10 - 14:50:47.543	[34minfo[0m	D:/go_project/study-gorm/initialize/gorm.go:54	register table success
+[GIN-VUE-ADMIN]2020/12/10 - 14:55:40.930	[31merror[0m	D:/go_project/study-gorm/initialize/gorm.go:51	register table failed	{"err": "Error 1060: Duplicate column name 'authority_id'"}
+[GIN-VUE-ADMIN]2020/12/10 - 14:56:30.281	[31merror[0m	D:/go_project/study-gorm/initialize/gorm.go:50	register table failed	{"err": "Error 1060: Duplicate column name 'created_at'"}
+[GIN-VUE-ADMIN]2020/12/10 - 15:00:56.591	[31merror[0m	D:/go_project/study-gorm/initialize/gorm.go:61	register table failed	{"err": "Error 1060: Duplicate column name 'deleted_at'"}
+[GIN-VUE-ADMIN]2020/12/10 - 15:01:27.308	[34minfo[0m	D:/go_project/study-gorm/initialize/gorm.go:64	register table success
+[GIN-VUE-ADMIN]2020/12/10 - 15:01:43.264	[31merror[0m	D:/go_project/study-gorm/initialize/gorm.go:61	register table failed	{"err": "Error 1060: Duplicate column name 'authority_name'"}
